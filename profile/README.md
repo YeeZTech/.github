@@ -1,0 +1,6 @@
+# YeeZTech 
+## Intro
+YeeZTech is a global leading provider of privacy preserving solutions. It focuses on building government and enterprise privacy preserving infrastructure and solutions, and is committed to becoming a bridge of liquidity aggregation of data  assetization.
+The company's products include self-developed privacy preserving middleware *Fidelius*, *Dianshu data cooperation platform* and the alliance blockchain system *YeeZChain*. Based on technologies such as confidential computing, blockchain and federated learning, it provides whole-process privacy preserving of data and model algorithms for data  circulation scenarios in the scenario of government affairs, energy, medical care, finance and industry.
+
+The company has been certified as a national high-tech enterprise and a Zhongguancun high-tech enterprise, and has been selected as a member of the Privacy Computing Alliance, a member of the Council of the Trusted Blockchain Promotion Plan of the ICT Academy, a member of the Data Security Promotion Plan of the ICT Academy, a member of the CCSA TC601 Big Data Technology Standard Promotion Committee, and the first batch of members of Tencent blockchain accelerator. More than 30 invention patents and software copyrights related to privacy computing and blockchain have been obtained.
